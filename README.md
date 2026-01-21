@@ -5,7 +5,7 @@
 
 ## 👨🏽‍💻 About me:
 
-I'm from the city of Córdoba, Argentina. I am a **Programmer** (Res. CFE N° 289/16) from the Instituto Superior Politécnico Córdoba. Currently pursuing a double technical education in **Software Development** (2nd year) and **Web and Mobile Application Design** (1st year).
+I'm from the city of Córdoba, Argentina. I am a **Programmer** (Res. CFE N° 289/16) from the Instituto Superior Politécnico Córdoba. Currently pursuing a double technical education in **Software Development** (3rd year) and **Web and Mobile Application Design** (2nd year).
 
 I possess a strong research ability and a methodical approach to solving problems efficiently. I am actively seeking opportunities to apply and expand my technical knowledge in challenging projects, demonstrating my commitment to continuous learning and the pursuit of optimal solutions.
 <br/>
